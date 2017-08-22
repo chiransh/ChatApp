@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "958578852654",
+    "firebase_url": "https://chatintern-75c09.firebaseio.com",
+    "project_id": "chatintern-75c09",
+    "storage_bucket": "chatintern-75c09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958578852654:android:fd51fd3c59230007",
+        "android_client_info": {
+          "package_name": "com.freedoctorhelpline.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958578852654-0bmj5mft0hdivvvensm028oma53htft0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freedoctorhelpline.chatapp",
+            "certificate_hash": "76e3f9d77fcbd1cbaaa64b6070decfc4d0a76674"
+          }
+        },
+        {
+          "client_id": "958578852654-n22s940dmd945ligd1lmpd42pndaqksa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQsn6xDBDky2RrCS_ONFvPChT_YbqL6gY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958578852654-n22s940dmd945ligd1lmpd42pndaqksa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
